@@ -1,0 +1,25 @@
+Steps to follow:
+
+1. Open Database.sql file and run it on command prompt to create database.
+   
+    
+
+2. Open my project using Eclipse IDE
+
+3. My project Contains three packages.
+   1) Entity package which contains BookStore schema.
+   2) Service package which contains various methods which can be implemented by the admin.(dao layer)
+   3) Main Package which contains demo class.
+
+
+4. Go through java main resource folder where you can find hibernate.cfg.xml file.In that file edit your mysql username and password.
+
+5. Now open Main Package and run the democlass.java file.
+
+6.It asks the role and enter the role as admin.
+
+7. Select the operations that you want to perform as an admin.
+
+
+
+
